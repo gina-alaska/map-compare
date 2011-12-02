@@ -1,0 +1,18 @@
+!!!5
+%html
+  %head
+  %title MapCompare
+  = stylesheet_link_tag    "application"
+  = javascript_include_tag "http://maps.google.com/maps/api/js?sensor=false"
+  = javascript_include_tag "http://dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6"
+  = javascript_include_tag "mxn/mxn.js?(googlev3,microsoft)", "application"
+  = csrf_meta_tags
+  %body
+    #header Map Compare
+    #content
+      %span#google
+      %span#bdl
+      %span#bing.bingmap
+    #footer 
+      Powered by 
+      %a(href="http://www.gina.alaska.edu") GINA
