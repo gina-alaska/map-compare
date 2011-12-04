@@ -1,10 +1,10 @@
-GINA's Map Compare
-==================
+Map Compare
+===========
 
-* By Will Fisher of the Geographic Information Network of Alaska
- * http://www.gina.alaska.edu
+* Developed by Will Fisher - Geographic Information Network of Alaska (GINA)
+ * http://www.gina.alaska.edu 
  * http://www.alaskamapped.org
- * http://gina-alaska.github.com
+ * http://github.com/gina-alaska/map-compare
 
 
 Description 
@@ -18,8 +18,8 @@ Three panels show:
 * Google + the AlaskaMapped Best Data Layer (BDL)
 * Bing
 
-Install and Contribute
-----------------------
+Installing
+----------
 
 If you see something you want tweaked or added feel free to dive in.  Latest
 code is available at http://github.com/gina-alaska/map-compare
