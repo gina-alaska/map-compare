@@ -37,5 +37,5 @@ Install dependancies and run:
 License and Credits
 -------------------
 
-See LICENSE.md file.
+See LICENSE file.
 
